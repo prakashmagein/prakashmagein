@@ -1,19 +1,44 @@
-### Hi there 👋
-12+ Years of experience in Magento development and I noticed that I have a huge experience of developing Magento Modules, Theme Implementations, Server configurations, Payment Gateway integration, etc.
-<!--
-**prakashmagein/prakashmagein** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I’m Prakash Kumar  
 
-![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
+💻 **Magento Expert | Adobe Commerce Specialist | Tech Consultant**  
 
-Here are some ideas to get you started:
+I have **12+ years of experience** in **Magento (Adobe Commerce) development**, with deep expertise in:  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔹 Developing **custom Magento modules**  
+- 🎨 Implementing & customizing **themes**  
+- 🔐 **Payment gateway integrations**  
+- ⚡ **Server setup, configuration & performance optimization**  
+- 🛠️ **Third-party API & ERP integrations**  
+- 📦 Building scalable **B2B & B2C eCommerce solutions**  
 
+---
+
+## 🌐 My Work  
+I’m passionate about building **high-performing eCommerce platforms** that scale with business needs.  
+Currently, I work with clients globally to deliver end-to-end solutions using **Magento 2, PWA, WordPress, and custom backend systems**.  
+
+---
+
+## 📖 Blog & Insights  
+I share technical tutorials, eCommerce strategies, and development tips on my blog:  
+🔗 [CyberChunk.com](https://cyberchunk.com/)  
+
+---
+
+## 📬 Let’s Connect  
+- 🌍 **Portfolio & Blog:** [cyberchunk.com](https://cyberchunk.com/)  
+- 💬 **WhatsApp:** [+91 7004325316](https://wa.me/917004325316)  
+- 💼 **LinkedIn:** [linkedin.com/in/prakashmagein](https://linkedin.com/in/prakashmagein)  
+
+---
+
+## ⚡ Fun Fact  
+When I’m not coding Magento modules or tuning servers, I enjoy exploring new **AI/ML technologies**, playing chess, and traveling.  
+
+---
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=prakashmagein&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prakashmagein&layout=compact&theme=radical)  
+
+---
+✨ _Always open to collaborating on exciting Magento and eCommerce projects!_  
